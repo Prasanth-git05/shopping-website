@@ -1,0 +1,7 @@
+1. create money transfer GUI
+
+2. connect with money transfer service provider
+
+3. connect with secure payment gateways
+
+4. enhance user interface
